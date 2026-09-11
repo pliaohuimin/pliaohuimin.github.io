@@ -1,4 +1,4 @@
-baseURL = 'https://pliaohuimin.github.io/hugo_blog/'
+baseURL = 'https://pliaohuimin.github.io/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = "PaperMod"
