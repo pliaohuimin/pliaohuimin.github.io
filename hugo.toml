@@ -1,7 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://pliaohuimin.github.io/hugo_blog/'
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = "PaperMod"
-
-[outputs]
-  [outputs.minify]
